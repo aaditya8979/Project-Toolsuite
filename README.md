@@ -14,8 +14,8 @@ Just your work and our tools.
 
 | Rank | Contributor | Points | Commits |
 |-----:|------------|-------:|--------:|
-| 1 | @Winter262005 | 89 | 89 |
-| 2 | @AdityaMittal08 | 2 | 2 |
+| 1 | @Winter262005 | 91 | 91 |
+| 2 | @AdityaMittal08 | 4 | 4 |
 | 3 | @anshul-lh44 | 1 | 1 |
 | 4 | @SamXop123 | 1 | 1 |
 | 5 | @Shlok-Dwivedi | 1 | 1 |
